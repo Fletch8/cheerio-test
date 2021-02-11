@@ -1,0 +1,25 @@
+{
+  "name": "cheerio-test",
+  "version": "1.0.0",
+  "description": "this is me mastering cheerio",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fletch8/cheerio-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fletch8/cheerio-test/issues"
+  },
+  "homepage": "https://github.com/Fletch8/cheerio-test#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "node-fetch": "^2.6.1",
+    "pg": "^8.5.1",
+    "sequelize": "^6.5.0"
+  }
+}
